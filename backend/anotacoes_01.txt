@@ -1,0 +1,8 @@
+TS-NODE-DEV
+	Biblioteca que servirá para rodar a nossa aplicação, é uma lib que conseguimos utilizar junto com typescript que faz um auto-reload da nossa aplicação. O node tambem não consegue entender arquivos ponto typescript, então ele vai compilar de uma forma que o node consiga interpretar.
+
+MIGRATIONS
+	Um historico de tudo aquilo que está acontecendo dentro do banco de dados.
+
+SOCKET.IO
+	Ele é quem facilita a comunicação entre o cliente e o servidor
